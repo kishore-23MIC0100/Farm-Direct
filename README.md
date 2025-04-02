@@ -10,8 +10,8 @@ Revenue model : Transaction fees, subscriptions, and ads, with funding from gran
 
 # Technologies Used
 
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
 
 The project was developed using - NotePad
