@@ -7,3 +7,9 @@ Features include real-time produce listings, transparent pricing, secure payment
 Benefits : 30% higher income for farmers, 20% less food waste, affordable prices for buyers.
 Implementation : Pilot with 100 farmers, scale via FPOs, expand nationwide in 2 years.
 Revenue model : Transaction fees, subscriptions, and ads, with funding from grants and partnerships.
+
+# Technologies Used
+> HTML
+>CSS
+>JavaScript
+The project was developed using - NotePad
