@@ -9,7 +9,9 @@ Implementation : Pilot with 100 farmers, scale via FPOs, expand nationwide in 2 
 Revenue model : Transaction fees, subscriptions, and ads, with funding from grants and partnerships.
 
 # Technologies Used
-> HTML
->CSS
->JavaScript
+
+HTML
+CSS
+JavaScript
+
 The project was developed using - NotePad
